@@ -1,0 +1,18 @@
+/*
+ Theme Name:     WP Simple Child Theme
+ Theme URI:      
+ Description:    WP Simple Child Theme
+ Author:         Scott Norris
+ Author URI:     
+ Template:       wp_simple
+ Version:        1.0.0
+*/
+ 
+@import url("../wp_simple/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.navbar-brand {
+  color: #fff !important;
+}

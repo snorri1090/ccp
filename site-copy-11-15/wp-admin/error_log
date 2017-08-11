@@ -1,0 +1,31 @@
+[07-Feb-2014 16:01:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:01:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:02:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:02:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:02:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:02:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:03:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:04:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:04:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:04:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:05:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:06:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:06:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:06:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:07:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:08:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:08:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:08:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:08:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:10:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:10:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:11:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:11:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:11:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:12:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:12:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:12:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:13:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[17-Sep-2014 13:28:20 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42
+[17-Sep-2014 13:28:40 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42
+[17-Sep-2014 13:28:59 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42

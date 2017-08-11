@@ -1,0 +1,18 @@
+/*
+ Theme Name:     WP Simple Child Theme
+ Theme URI: http://nimbusthemes.com/wordpress-themes/simple/
+ Description:    WP Simple Child Theme
+ Author: Nimbus Themes
+ Author URI: http://nimbusthemes.com/
+ Template: WP Simple
+ Version: 1.0.7
+*/
+ 
+@import url("../wp_simple/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+header .image_logo {
+margin-top: 180px;
+}

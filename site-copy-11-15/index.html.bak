@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Columbia City Pilates</title>
+<style>
+body { 
+background-color:#538c97;
+}
+
+h2 {
+font-family:arial;
+color:#a2cbd3;
+}
+
+div.temp {
+text-align:center;
+margin:40px 0 0 0;
+width:100%;
+}
+</style>
+</head>
+
+<body>
+<div class="temp">
+<h2>Columbia City Pilates Website Coming Soon!</h2>
+</div>
+</body>
+
+
+
+</html>

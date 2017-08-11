@@ -1,0 +1,18 @@
+[24-Jan-2014 19:26:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/front-page.php on line 12
+[05-Feb-2014 03:43:31 UTC] PHP Fatal error:  Call to undefined function page_title() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 03:48:52 UTC] PHP Fatal error:  Call to undefined function page_ID() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 03:49:05 UTC] PHP Fatal error:  Call to undefined function pageID() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 03:49:14 UTC] PHP Fatal error:  Call to undefined function pageID() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 03:49:29 UTC] PHP Fatal error:  Call to undefined function page() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 03:57:40 UTC] PHP Fatal error:  Call to undefined function get_current_page() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[05-Feb-2014 06:05:00 UTC] PHP Fatal error:  Call to undefined function get_page_id() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 427
+[07-Feb-2014 16:01:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 466
+[07-Feb-2014 16:11:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 16:12:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/nimbus/options.php on line 594
+[07-Feb-2014 17:29:24 UTC] PHP Fatal error:  Call to undefined function is_homepage() in /home2/ccpilate/public_html/wp-content/themes/wp_simple/parts/banner.php on line 5
+[07-Feb-2014 18:24:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/parts/banner.php on line 141
+[07-Feb-2014 18:25:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/ccpilate/public_html/wp-content/themes/wp_simple/parts/banner.php on line 150
+[07-Feb-2014 22:31:57 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home2/ccpilate/public_html/wp-content/themes/wp_simple/header.php on line 23
+[17-Sep-2014 13:28:26 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42
+[17-Sep-2014 13:28:32 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42
+[17-Sep-2014 13:28:49 UTC] PHP Fatal error:  Cannot redeclare nimbus_update_alert() (previously declared in /home2/ccpilate/public_html/wp-content/themes/wp_simple-child/functions.php:31) in /home2/ccpilate/public_html/wp-content/themes/wp_simple/functions.php on line 42
